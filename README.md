@@ -1,4 +1,4 @@
-# wgcf
+[![Run on Repl.it](https://repl.it/badge/github/shahrokh-66/wgcf)](https://repl.it/github/shahrokh-66/wgcf)# wgcf
 > wgcf is a utility for Cloudflare Warp that allows you to create and 
 > manage accounts, assign license keys, and generate WireGuard profiles. 
 
